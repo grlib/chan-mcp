@@ -1,0 +1,6 @@
+fastmcp>=2.11.3
+czsc>=0.10.0
+baostock>=0.8.9
+pandas>=2.0.0
+numpy>=1.24.0
+
