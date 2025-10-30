@@ -1,0 +1,15 @@
+name: chan-mcp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - numpy>=1.24
+  - pandas>=2.0
+  # Some deps are only available via pip
+  - pip:
+      - fastmcp>=0.1.6
+      - czsc>=0.9.68
+      - baostock>=0.8.9
+

@@ -1,0 +1,3 @@
+fastmcp>=0.1.6
+czsc>=0.9.68
+baostock>=0.8.9
